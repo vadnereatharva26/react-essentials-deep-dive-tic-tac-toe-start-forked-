@@ -290,6 +290,11 @@ ol {
   margin-top: 1.5rem;
 }
 
+#winner {
+  color: white;
+  z-index: 10;
+}
+
 @keyframes slide-in-from-left {
   0% {
     opacity: 0;
